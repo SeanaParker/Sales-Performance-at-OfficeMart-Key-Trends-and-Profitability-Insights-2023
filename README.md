@@ -49,7 +49,7 @@ The company's main database consists of three tables: `Orders`, `Location`, and 
 Sales reached $730K in 2023, a 20% increase from the previous year, with the strongest gains in Q4, particularly in November (up 49% YoY). While revenue growth was strong, profit increased at a slower rate (14% YoY), highlighting pricing and cost challenges. Categories like Phones, Copiers, and Accessories drove profitability, while Machines, Tables, and Envelopes struggled. Strengthening early-year sales, refining pricing strategies, and optimizing underperforming categories could help improve overall profitability.
 
 <p align="center">
-    <img src="Visualizations/Sales Performance Dashboard.png" alt="Sales Performance Dashboard" width="550">
+    <img src="Visualizations/Sales Performance Dashboard.png" alt="Sales Performance Dashboard" width="750">
 </p>
 ---
 
