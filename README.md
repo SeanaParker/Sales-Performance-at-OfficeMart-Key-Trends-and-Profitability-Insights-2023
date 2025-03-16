@@ -39,7 +39,7 @@ The company's main database consists of three tables: `Orders`, `Location`, and 
   Contains product details, including category, subcategory, and product name. It is linked to the `Orders` table via `Product ID`, enabling sales performance analysis by product type.
 
 <p align="center">
-    <img src="Visualizations/Sales & Profitability ERD.png" alt="Sales & Profitability ERD" width="500">
+    <img src="Visualizations/Sales & Profitability ERD.png" alt="Sales & Profitability ERD" width="450">
 </p>
 
 ---
