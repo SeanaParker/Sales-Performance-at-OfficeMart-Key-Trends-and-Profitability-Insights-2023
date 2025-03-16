@@ -49,7 +49,7 @@ The company's main database consists of three tables: `Orders`, `Location`, and 
 Sales reached $730K in 2023, a 20% increase from the previous year, with the strongest gains in Q4, particularly in November (up 49% YoY). While revenue growth was strong, profit increased at a slower rate (14% YoY), highlighting pricing and cost challenges. Categories like Phones, Copiers, and Accessories drove profitability, while Machines, Tables, and Envelopes struggled. Strengthening early-year sales, refining pricing strategies, and optimizing underperforming categories could help improve overall profitability.
 
 <p align="center">
-    <img src="Visualizations/Sales Performance Dashboard.png" alt="Sales Performance Dashboard" width="750">
+    <img src="Visualizations/Sales Performance Dashboard.png" alt="Sales Performance Dashboard" width="725">
 </p>
 ---
 
@@ -61,17 +61,29 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - Mid-year fluctuations between March and July suggest external market shifts or inconsistent promotional efforts.
 - Year-over-year comparisons confirm growth, but some months underperformed despite overall revenue gains.
 
+<p align="center">
+    <img src="Visualizations/Total Sales KPI.png" alt="Total Sales KPI" width="750">
+</p>
+
 ### Profitability Trends and Volatility
 - Total profit reached $93K (up 14.24% YoY), but was inconsistent.
 - March saw the highest profit ($15K, up 308.42% YoY), potentially due to higher-margin product sales or cost control measures.
 - April recorded the lowest profit ($1K, down 68.66% YoY), indicating possible heavy discounting or cost spikes.
 - The second half of the year showed more stability, but managing mid-year volatility remains key.
 
+<p align="center">
+    <img src="Visualizations/Total Profit KPI.png" alt="Total Profit KPI" width="750">
+</p>
+
 ### Sales Volume and Demand Patterns
 - Total units sold increased by 26.83% YoY, reaching 12K.
 - November 2023 had the highest unit sales (1,840, up 30.87% YoY), reinforcing the importance of seasonal promotions.
 - Despite February being the lowest in sales, it still saw an 18.63% YoY increase, suggesting improved strategies over 2022.
 - Consistent seasonal fluctuations indicate a need for improved off-season sales strategies.
+
+<p align="center">
+    <img src="Visualizations/Total Quantity KPI.png" alt="Total Quantity KPI" width="750">
+</p>
 
 ### Subcategory Performance: Growth vs. Profitability
 
@@ -95,6 +107,10 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - Q4 was the strongest period in both years, confirming the need for seasonal planning.
 - Profitability volatility persisted, despite revenue growth, indicating inefficiencies in pricing or cost management.
 - Q1 remained a weak period in both years, requiring targeted marketing and promotions.
+
+<p align="center">
+    <img src="Visualizations/Sales & Profit by Subcategory.png" alt="Sales & Profit by Subcategory" width="750">
+</p>
 
 ---
 
