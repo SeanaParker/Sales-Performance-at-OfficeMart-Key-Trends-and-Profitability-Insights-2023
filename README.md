@@ -102,6 +102,10 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - Envelopes ($3K, -29% YoY) and Fasteners ($1K, -11% YoY) continued to see declining sales and minimal profitability.
 - These categories contribute little to overall revenue and may need to be discontinued or repositioned if trends continue.
 
+<p align="center">
+    <img src="Visualizations/Sales & Profit by Subcategory.png" alt="Sales & Profit by Subcategory" width="750">
+</p>
+
 ### Weekly Sales and Profit Analysis: 2023 vs. 2022
 - Sales improved year-over-year, with 2023 weekly averages at $14K vs. $12K in 2022.
 - Q4 was the strongest period in both years, confirming the need for seasonal planning.
@@ -109,7 +113,11 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - Q1 remained a weak period in both years, requiring targeted marketing and promotions.
 
 <p align="center">
-    <img src="Visualizations/Sales & Profit by Subcategory.png" alt="Sales & Profit by Subcategory" width="750">
+    <img src="Visualizations/2023 Weekly Trends.png" alt="2023 Weekly Trends" width="750">
+</p>
+
+<p align="center">
+    <img src="Visualizations/2022 Weekly Trends.png" alt="2022 Weekly Trends" width="750">
 </p>
 
 ---
