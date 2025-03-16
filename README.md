@@ -29,14 +29,18 @@ Raw datasets can be found [here.](Exploration)
 
 The company's main database consists of three tables: `Orders`, `Location`, and `Products`, with a total of 12,165 records. A description of each table is as follows:
 
-- `Orders Table` (Fact Table)
+- `Orders` (Fact Table)
   Contains transactional sales data, including order details, shipping information, customer segment, and financial metrics such as sales, quantity, discount, and profit. It is linked to the Location table via Postal Code and the Products table via `Product ID`.
   
-- `Location Table` (Dimension Table)
+- `Location` (Dimension Table)
   Stores geographic data, including city, state, region, and country. This table allows for the analysis of sales performance across different locations and is linked to the `Orders` table by `Postal Code`.
 
-- `Products` Table (Dimension Table)  
+- `Products` (Dimension Table)  
   Contains product details, including category, subcategory, and product name. It is linked to the `Orders` table via `Product ID`, enabling sales performance analysis by product type.
+
+<p align="center">
+    <img src="Visualizations/Sales & Profitability ERD.png" alt="Sales & Profitability ERD" width="750">
+</p>
 
 ---
 
