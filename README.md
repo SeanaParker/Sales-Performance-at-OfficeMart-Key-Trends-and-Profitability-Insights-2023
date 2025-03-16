@@ -42,15 +42,17 @@ The company's main database consists of three tables: `Orders`, `Location`, and 
     <img src="Visualizations/Sales & Profitability ERD.png" alt="Sales & Profitability ERD" width="450">
 </p>
 
----
 
 ## Executive Summary
 
 Sales reached $730K in 2023, a 20% increase from the previous year, with the strongest gains in Q4, particularly in November (up 49% YoY). While revenue growth was strong, profit increased at a slower rate (14% YoY), highlighting pricing and cost challenges. Categories like Phones, Copiers, and Accessories drove profitability, while Machines, Tables, and Envelopes struggled. Strengthening early-year sales, refining pricing strategies, and optimizing underperforming categories could help improve overall profitability.
 
 <p align="center">
-    <img src="Visualizations/Sales Performance Dashboard.png" alt="Sales Performance Dashboard" width="725">
+    <a href="https://public.tableau.com/app/profile/seana.parker/viz/2023SalesPerformanceDashboard/SalesDashboard#1" target="_blank">
+        <img src="Visualizations/Sales Performance Dashboard.png" alt="Sales Performance Dashboard" width="725">
+    </a>
 </p>
+
 ---
 
 ## Insights Deep Dive
@@ -62,7 +64,7 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - Year-over-year comparisons confirm growth, but some months underperformed despite overall revenue gains.
 
 <p align="center">
-    <img src="Visualizations/Total Sales KPI.png" alt="Total Sales KPI" width="750">
+    <img src="Visualizations/Total Sales KPI.png" alt="Total Sales KPI" width="700">
 </p>
 
 ### Profitability Trends and Volatility
@@ -72,7 +74,7 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - The second half of the year showed more stability, but managing mid-year volatility remains key.
 
 <p align="center">
-    <img src="Visualizations/Total Profit KPI.png" alt="Total Profit KPI" width="750">
+    <img src="Visualizations/Total Profit KPI.png" alt="Total Profit KPI" width="700">
 </p>
 
 ### Sales Volume and Demand Patterns
@@ -82,11 +84,10 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - Consistent seasonal fluctuations indicate a need for improved off-season sales strategies.
 
 <p align="center">
-    <img src="Visualizations/Total Quantity KPI.png" alt="Total Quantity KPI" width="750">
+    <img src="Visualizations/Total Quantity KPI.png" alt="Total Quantity KPI" width="700">
 </p>
 
 ### Subcategory Performance: Growth vs. Profitability
-
 #### **Top Performers**
 - Phones ($105K, +33% YoY), Copiers ($63K, +27% YoY), and Accessories ($60K, +43% YoY) were the highest-performing subcategories, demonstrating both strong revenue growth and profitability.
 - Copiers had the highest profit at $25K, showing strong margins even with moderate sales growth.
@@ -103,7 +104,7 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - These categories contribute little to overall revenue and may need to be discontinued or repositioned if trends continue.
 
 <p align="center">
-    <img src="Visualizations/Sales & Profit by Subcategory.png" alt="Sales & Profit by Subcategory" width="750">
+    <img src="Visualizations/Sales & Profit by Subcategory.png" alt="Sales & Profit by Subcategory" width="700">
 </p>
 
 ### Weekly Sales and Profit Analysis: 2023 vs. 2022
@@ -113,11 +114,11 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 - Q1 remained a weak period in both years, requiring targeted marketing and promotions.
 
 <p align="center">
-    <img src="Visualizations/2023 Weekly Trends.png" alt="2023 Weekly Trends" width="750">
+    <img src="Visualizations/2023 Weekly Trends.png" alt="2023 Weekly Trends" width="700">
 </p>
 
 <p align="center">
-    <img src="Visualizations/2022 Weekly Trends.png" alt="2022 Weekly Trends" width="750">
+    <img src="Visualizations/2022 Weekly Trends.png" alt="2022 Weekly Trends" width="700">
 </p>
 
 ---
