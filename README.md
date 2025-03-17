@@ -1,4 +1,4 @@
-# Sales Performance at OfficeMart: Key Trends and Profitability Insights (2023)
+# Sales Performance at OfficeMart: Profitability Trends and Key Insights (2023)
 
 ## Table of Contents
 - [Project Background](#project-background)
