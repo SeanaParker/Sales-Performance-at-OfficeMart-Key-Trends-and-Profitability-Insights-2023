@@ -89,7 +89,7 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 
 ### Subcategory Performance: Growth vs. Profitability
 #### **Top Performers**
-- Phones ($105K, +33% YoY), Copiers ($63K, +27% YoY), and Accessories ($60K, +43% YoY) were the highest-performing subcategories, demonstrating both strong revenue growth and profitability.
+- Phones ($105K, +33% YoY), Binders ($73K, +47% YoY), and Accessories ($60K, +43% YoY) were the highest-performing subcategories, demonstrating both strong revenue growth and profitability.
 - Copiers had the highest profit at $25K, showing strong margins even with moderate sales growth.
 
 #### **Challenges in Key Categories**
@@ -131,8 +131,7 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 
 ### **Optimize Profitability & Cost Structures**
 - Adjust pricing or implement cost-control measures for low-profit subcategories like Machines, Tables, and Bookcases.
-- Reassess high-sales but low-margin categories (Storage, Chairs, and Paper) to find opportunities for improved profitability.
-- Closely monitor Q2 discounting strategies to maintain a balance between sales volume and profit margins.
+- Reassess high-sales but low-margin categories (Storage and Chairs) to find opportunities for improved profitability.
 
 ### **Leverage Q4 Growth Trends**
 - Increase marketing budgets for seasonal promotions in Q4, as November consistently sees the highest sales.
