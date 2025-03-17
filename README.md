@@ -144,9 +144,11 @@ Sales reached $730K in 2023, a 20% increase from the previous year, with the str
 ---
 
 ## Assumptions & Caveats
-- This analysis does not account for external factors like economic conditions, consumer behavior shifts, or supply chain disruptions, which may have influenced sales.
-- Higher sales volume does not always mean higher profits. Some growth may be due to discounts or increased costs.
-- The impact of product lifecycle and competition was not included, so long-term sales trends may be influenced by external market forces.
+Throughout this analysis, a few assumptions were made due to data limitations and external factors not captured in the dataset:
+
+- The findings primarily reflect internal business performance. The analysis doesn't account for external factors such as economic changes, competitor promotions, or supply chain issues, which might significantly influence sales and profit trends.
+- Customer-specific insights, like purchasing preferences, loyalty patterns, or customer feedback, weren't included in the dataset. As a result, conclusions are based only on transactional sales and profit data.
+- Detailed information about product pricing strategies, promotional activities, or discounting practices was not fully available. Consequently, some observed trends may be influenced by pricing decisions not captured explicitly in the data.
 
 --- 
 - Interactive Tableau Dashboard for exploring sales and profit trends can be found [here.](https://public.tableau.com/app/profile/seana.parker/viz/2023SalesPerformanceDashboard/SalesDashboard#1)
